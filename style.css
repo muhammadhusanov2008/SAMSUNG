@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home_content button{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom:15px ;
+    border-radius: 30px;
+    padding-top: 15px;
+    background: none;
+    color: white;
+    border: 1px solid white;
+    position: relative;
+}
+.home_content button:hover{
+    background: white;
+    color: rgb(99,22,111);
+}
+.col{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.contain img{
+    width: 200px;
+    /* height: 400px; */
+}
+.contain p{
+    font-size: 40px;
+    font-weight: bold;
+}
+.note9{
+    /* width: 100%; */
+    /* height: 100vh; */
+    background: rgb(113,69,224);
+}
+.note9 img{
+    margin:20px;
+    width: 300px;
+    /* background: rgb(113,69,224); */
+}
+.note9 button{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom:15px ;
+    border-radius: 30px;
+    padding-top: 15px;
+    background: none;
+    color: white;
+    border: 1px solid white;
+    position: relative;
+}
+.note9 button:hover{
+    background: white;
+    color: rgb(99,22,111);
+}
+.note9 h1{
+    font-size: 70px;
+}
+.watch{
+    margin: 20px;
+    padding: 20px;
+    background: url('	https://images01.nicepage.com/c461c07a441a5d220e8feb1a/ef7cafb2de185111ac71498c/bg2.png');
+}
+.galaxy{
+    padding: 30px;
+    background: black;
+    color: white;
+}
+.galaxy img{
+    width: 390px;
+    margin: 50px;
+    margin-top: 150px;
+}
+.galaxy h1{
+    font-size: 50px;
+    /* color: white; */
+}
+.galaxy button{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom:15px ;
+    border-radius: 30px;
+    padding-top: 15px;
+    background: none;
+    color: rgb(255, 255, 255);
+    border: 1px solid white;
+    position: relative;
+}
+.galaxy button:hover{
+    font-weight: bold;
+    background: white;
+    color: rgb(0, 0, 0);
+}
+.iconx{
+    height: 100vh;
+    text-align: center;
+    margin: 30px;
+    padding: 30px;
+}
+.iconx img{
+    width: 400px;
+    margin-top: 50px;
+}
+.spen img{
+    width: 350px;
+    margin-top: 40px;
+}
+.spen{
+    color: white;
+    padding: 100px;
+    background: rgb(192,74,135);
+}
+.spen h1{
+    font-size: 60px;
+}
+.spen button{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom:15px ;
+    border-radius: 30px;
+    padding-top: 15px;
+    background: none;
+    color: rgb(255, 255, 255);
+    border: 1px solid white;
+    position: relative;
+}
+.spen button:hover{
+    font-weight: bold;
+    background: rgb(255, 255, 255);
+    color: rgb(192,74,135);
+}
+.oxirgi{
+    margin: 30px;
+    padding: 40px;
+}
+.oxirgi button{
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom:15px ;
+    border-radius: 30px;
+    padding-top: 15px;
+    background: none;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    position: relative;
+}
+.oxirgi button:hover{
+    font-weight: bold;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.footer{
+    height: 100px;
+    background: rgb(51,51,51);
+}
+.footer p{
+    margin: 30px;
+    color: white;
+    text-align: center;
+}
